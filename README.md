@@ -1,5 +1,5 @@
 # hello-world
-_FirstTime2
+_FirstTime
 
 #include<stdio.h>
 int main(){
